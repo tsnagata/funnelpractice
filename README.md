@@ -1,2 +1,2 @@
-# Oython Practice
+# Python Practice
 
